@@ -1,0 +1,5 @@
+- Inspecting.
+- Cleansing (Missing values,Empty data,Incorrect Type,Incorrect values,Outliers and non relevant data)
+- Transforming (Reshaping,Transforming Structures,Indexing for quick access,Merging and Joining)
+- Modeling with the goal of discovering usful information (Visualization,Statical models,Correlation,Reporting)
+- Informing conclusion and supporting decision-making (Real-life tests)
